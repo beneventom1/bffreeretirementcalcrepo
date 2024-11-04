@@ -139,7 +139,7 @@ const RetirementCalculator: React.FC = () => {
   return (
     <div className="w-full max-w-6xl p-4 bg-white rounded-lg shadow-lg space-y-6">
       <div className="flex justify-between items-center">
-        <h2 className="text-2xl font-bold">Retirement Calculator v1.2</h2>
+        <h2 className="text-2xl font-bold">Retirement Calculator v1.3</h2>
         <label className="flex items-center text-sm">
           <input 
             type="checkbox" 
